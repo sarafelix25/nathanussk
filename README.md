@@ -157,14 +157,7 @@
 <!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details>
- 
 
-<p align="center">
- 💻 My setup <br>
-  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
 <p align="center">
  💻 My apps <br>
   🌐 Web browser: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
@@ -173,8 +166,4 @@
   <br>
   📹 Video editor: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/shotcut-0078D6?logoColor=white&style=for-the-badge&color=115C77"></a>
 </p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/max-programming/count.svg" />
-</p>
-<br />
-<br />
+
