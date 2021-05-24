@@ -145,22 +145,9 @@
 
 </details>
 
-<details>
-  <summary>📦 Packages</summary>
-  
-  
-
-| Name                 | A short summary                              | Install   | Downloads |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
-| [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
-<!-- | Content Cell         | Content Cell                                | link | link | -->
-  
-</details>
-
 <p align="center">
  💻 My apps <br>
-  🌐 Web browser: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
+  🌐 Web browser: <a htef="https://www.google.com/intl/pt-BR/chrome/"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
   <br>
   👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
   <br>
