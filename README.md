@@ -7,5 +7,5 @@
 I'am a mobile developer and student in the IT area since 2019.
 
 Currently I'm focused on
-- Application Developer and looking for solutions [@locabox] (https://locabox.com.br/)
 - 👨🏾‍💻 Application Development Student!
+- Application Developer and looking for solutions [@locabox] (https://locabox.com.br/)
