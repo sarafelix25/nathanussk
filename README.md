@@ -146,7 +146,7 @@
 </details>
 
 <p align="center">
- 💻 My apps <br>
+ 💻 My apps Web <br>
   🌐 Web browser: <a htef="https://www.google.com/intl/pt-BR/chrome/"><img src="https://img.shields.io/badge/google chrome-00786?logo=google-chrome&logoColor=white&style=for-the-badge&color=#34A853"></a>
   <br>
   👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
