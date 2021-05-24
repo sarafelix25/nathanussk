@@ -7,7 +7,5 @@
 I'am a mobile developer and student in the IT area since 2019.
 
 Currently I'm focused on
-- Creating and solving bugs at [@ovotech](https://github.com/orgs/ovotech/)
-- 👨🏾‍💻 Studying Software architect
-- 📹 My portuguese [YouTube channel](https://youtube.com/filhodanuvem/)
-- Helping people to understand, and get approved as a [Dev em Portugal](https://devemportugal.com/) (*Developer in Portugal*)
+- Application Developer and looking for solutions [@locabox] (https://locabox.com.br/)
+- 👨🏾‍💻 Application Development Student!
