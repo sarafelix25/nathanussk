@@ -25,11 +25,6 @@
 
 <p align='center'>
   💻 My apps Web<br/><br/>
-  🌐 Web browser: <img src="https://img.shields.io/badge/google chrome-00786?logo=google-chrome&logoColor=white&style=for-the-badge&color=#34A853">
-</p>
-
-<p align='center'>
-  💻 My apps Web<br/><br/>
   🌐 Web browser:<br/><br/>
   <img src="https://img.shields.io/badge/google chrome-00786?logo=google-chrome&logoColor=white&style=for-the-badge&color=#34A853" />
 </p>
