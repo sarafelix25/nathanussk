@@ -34,7 +34,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:nathangt83@gmail.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:nathangt83@gmail.com'>nathangt83@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
