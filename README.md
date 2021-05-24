@@ -32,8 +32,7 @@
 
 
 <p align='center'>
-  📱 My technologies that I use in mobile development<br/><br/>
-  <p align='center'>
+  📱 My technologies that I use in mobile development<br/><br/>   <p align='center'>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
