@@ -66,7 +66,7 @@
   📫 How to reach me: <a href='mailto:nathangt83@gmail.com'>nathangt83@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/nathanussk/nathanussk"></a> hipsters and nerds have come here o/
 </p>
 
 <details>
