@@ -1,8 +1,6 @@
 
 
-<h1 align='center'>
-  Hi there 👋 I'm Nathan 👨‍💻
-</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 👋 I'm Nathan 👨‍💻 </h1> 
 
 <p align='center'>
   A mobile and web developer from Fortaleza-Ce, Brazil.
@@ -179,16 +177,6 @@ Here are some ideas to get you started:
 
 
 
-### Hey, I'm Nathan! 👋🏾
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nathan.exec/)](https://www.instagram.com/nathan.exec/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/nathanussk/)](https://www.linkedin.com/in/nathanussk/)
-
-I'am a mobile developer and student in the IT area since 2019.
-
-Currently I'm focused on
-- 👨🏾‍💻 Application Development Student!
-- Application Developer and looking for solutions [@locabox] (https://locabox.com.br/)
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hii! My name is Usman</h2>
