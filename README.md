@@ -29,9 +29,7 @@
   <img src="https://img.shields.io/badge/google chrome-00786?logo=google-chrome&logoColor=white&style=for-the-badge&color=#34A853" />
 </p>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+
 
 <p align='center'>
   📱 My technologies that I use in mobile development<br/><br/>
@@ -44,6 +42,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 <p align='center'>
