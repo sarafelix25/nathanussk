@@ -1,6 +1,6 @@
 ### Hey, I'm Nathan! 👋🏾
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/nathan.exec/)](https://www.instagram.com/nathan.exec/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=#c1558b&link=https://www.instagram.com/nathan.exec/)](https://www.instagram.com/nathan.exec/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanussk/)](https://www.linkedin.com/in/nathanussk/)
 
 I'am a mobile developer and student in the IT area since 2019.
