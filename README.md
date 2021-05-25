@@ -27,6 +27,8 @@
   💻 My apps Web<br/><br/>
   🌐 Web browser:<br/><br/>
   <img src="https://img.shields.io/badge/google chrome-00786?logo=google-chrome&logoColor=white&style=for-the-badge&color=#34A853" />
+  👨‍💻 Code editor:<br/><br/>
+  <img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1" />
 </p>
 
 
