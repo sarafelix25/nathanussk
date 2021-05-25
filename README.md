@@ -84,9 +84,15 @@
 📆 2019 - 2020\
 📍 **Platzi** - Fortaleza/CE, Brazil
   
+  
+  <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  
 - 📖 **Programming Course**\
 📆 2019 - 2020\
-📍 **Young Programmers School** - Fortaleza/CE, Brazil
+📍 **Escola de Jovens Programadores - REDE CUCA** - Fortaleza/CE, Brazil
 
 ## Experience
 
