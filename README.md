@@ -88,8 +88,8 @@
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
+- 👨‍💻 **Mobile Developer**\
 📆 2021 - Moment\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+📍 **Localbox** - Fortaleza/CE, Brazil
 
 </details>
