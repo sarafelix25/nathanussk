@@ -30,7 +30,7 @@
   <p align='center'>
   👨‍💻 Code editor:<br/><br/>
   <img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1" />
-    <img src="https://img.shields.io/badge/android%20logo%20logo=studio-android&logoColor=white&style=for-the-badge&color=0086D1" />
+    <img src="https://img.shields.io/badge/android studio-00786?logo=android-studiocolor=white&style=for-the-badge&color=0086D1" />
 </p>
 
 
