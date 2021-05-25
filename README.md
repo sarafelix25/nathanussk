@@ -80,9 +80,13 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Front-end developer course**\
+📆 2019 - 2020\
+📍 **Platzi** - Fortaleza/CE, Brazil
+  
+- 📖 **Programming Course**\
+📆 2019 - 2020\
+📍 **Young Programmers School** - Fortaleza/CE, Brazil
 
 ## Experience
 
