@@ -107,7 +107,7 @@
 📆 2021 - 2021\
 📍 **Localbox** - Fortaleza/CE, Brazil
   
-  - 👨‍💻 **iOS Developer**\
+- 👨‍💻 **iOS Developer**\
 📆 2021 - Moment\
 📍 **ACT Digital at SODEXO** - Fortaleza/CE, Brazil
 
