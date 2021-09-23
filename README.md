@@ -31,6 +31,7 @@
   👨‍💻 Code editor<br/><br/>
   <img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1" />
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
 </p>
 
 
@@ -42,6 +43,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
 
