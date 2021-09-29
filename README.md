@@ -31,6 +31,8 @@
   👨‍💻 Code editor<br/><br/>
   <img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1" />
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+     <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" width="82"> 
+
 </p>
 
 
