@@ -116,11 +116,8 @@
   <img align="right" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 />
   
-  
-  
-  
 - 👨‍💻 **iOS Developer**\
-📆 2021 - Moment\
+📆 2021 - Moment\ 
 📍 **ACT Digital at SODEXO** - Fortaleza/CE, Brazil
 
 </details>
