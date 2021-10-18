@@ -109,12 +109,6 @@
 📆 2021 - 2021\
 📍 **Localbox** - Fortaleza/CE, Brazil
   
-  <img align="right" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 />
-  
 - 👨‍💻 **iOS Developer**\
 📆 2021 - Moment\
 📍 **ACT Digital at SODEXO** - Fortaleza/CE, Brazil
